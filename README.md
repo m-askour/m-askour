@@ -44,18 +44,6 @@ With a background in electronics and automation, I'm particularly interested in 
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=m-askour&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    alt="Mohamed's GitHub Statistics"
-  />
-
-  <!-- Top Languages -->
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-askour&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Most Used Programming Languages"
-  />
 
   <br/><br/>
 
