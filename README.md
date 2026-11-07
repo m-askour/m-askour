@@ -2,7 +2,7 @@
  
 <div align="center">
 
-### ⚙️ Engineering Student | 42 Student | Developer
+### Engineering Student | 42 Student | Developer
 
 Hello! I'm passionate about programming, electronics, and engineering. I enjoy understanding how things work under the hood and turning ideas into practical solutions.
 
@@ -10,10 +10,10 @@ I'm currently developing my skills in **C/C++ programming, system programming, n
 
 With a background in electronics and automation, I'm particularly interested in the connection between hardware and software, low-level programming, and intelligent systems.
 
-💻 Exploring system programming and software development.  
-🔌 Interested in electronics, embedded systems, and automation.  
-🌱 Always learning new technologies and improving my skills.  
-🤝 Open to collaboration, technical projects, and new challenges.
+ - Exploring system programming and software development.  
+ - Interested in electronics, embedded systems, and automation.  
+ - Always learning new technologies and improving my skills.  
+ - Open to collaboration, technical projects, and new challenges.
 
 </div>
 
@@ -39,7 +39,7 @@ With a background in electronics and automation, I'm particularly interested in 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@ With a background in electronics and automation, I'm particularly interested in 
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -69,7 +69,7 @@ With a background in electronics and automation, I'm particularly interested in 
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 
 - C++ projects and object-oriented programming.
 - Network programming and client-server architecture.
@@ -78,11 +78,11 @@ With a background in electronics and automation, I'm particularly interested in 
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-askour)
 
 </div>
 
