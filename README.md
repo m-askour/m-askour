@@ -43,13 +43,28 @@ With a background in electronics and automation, I'm particularly interested in 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <!-- GitHub Stats -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=m-askour&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="Mohamed's GitHub Statistics"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <!-- Top Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-askour&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Programming Languages"
+  />
 
-<br/>
+  <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <!-- Contribution Streak -->
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=m-askour&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 
 </div>
 
