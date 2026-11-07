@@ -43,18 +43,30 @@ With a background in electronics and automation, I'm particularly interested in 
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=m-askour&theme=github_dark&show_icons=true"
-  alt="GitHub Stats"
-  width="49%"
-/>
+  <!-- GitHub Stats -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=m-askour&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="Mohamed's GitHub Statistics"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-askour&layout=compact&theme=github_dark"
-  alt="Top Languages"
-  width="49%"
-/>
+  <!-- Top Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-askour&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Programming Languages"
+  />
 
+  <br/><br/>
+
+  <!-- Contribution Streak -->
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=m-askour&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
 </div>
 
 ---
